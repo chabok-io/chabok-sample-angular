@@ -27,6 +27,7 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.webmanifest",
+              "src/my-service-worker.js",
               "src/ChabokSDKWorker.js"
             ],
             "styles": [
@@ -97,6 +98,7 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.webmanifest",
+              "src/my-service-worker.js",
               "src/ChabokSDKWorker.js"
             ],
             "styles": [
