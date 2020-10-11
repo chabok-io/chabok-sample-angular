@@ -1,5 +1,6 @@
 {
   "name": "chabok-sample-angular",
+  "gcm_sender_id": "GCM_SENDER_ID",
   "short_name": "chabok-sample-angular",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
