@@ -27,11 +27,14 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.webmanifest",
+              "src/ChabokSDKWorker.js"
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/ChabokSDKWorker.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,11 +97,14 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.webmanifest",
+              "src/ChabokSDKWorker.js"
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+
+            ]
           }
         },
         "lint": {
